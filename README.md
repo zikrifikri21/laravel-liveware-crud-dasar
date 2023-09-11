@@ -1,21 +1,21 @@
-![Logo](https://media.suara.com/pictures/653x366/2022/04/12/90022-ilustrasi-anya-forgerimdbcom.jpg)
+![Logo](https://github.com/zikrifikri21/laravel-liveware-crud-dasar/blob/main/image/laralive.jpg)
 
-## Intall composer
+## Intallation
 
 install composer in terminal
 
 ```bash
-$composer install
+composer install
 ```
 
 creates a symbolic link
 
 ```bash
-$php artisan storage:link
+php artisan storage link
 ```
 
 runing app
 
 ```bash
-$php artisan serve
+php artisan serve
 ```
